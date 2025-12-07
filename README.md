@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, I am Kian!
+
+I am a category theory enjoyer, a DDR enthusiast, a stack of cats, or a terrible goose.
 
 <!--
 **toposes/toposes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
